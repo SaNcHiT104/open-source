@@ -1,0 +1,7 @@
+function [S] = XOR(A,B)
+
+%UNTITLED3 Summary of this function goes here
+%   Detailed explanation goes here
+  S =(A&~B)+()
+end
+
